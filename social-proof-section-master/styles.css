@@ -1,3 +1,33 @@
+
+body{
+  font-family: "Spartan";
+  padding: 100px;
+}
+
+/* Main-info section */
+
+.big-heading{
+  font-weight: 700;
+  color: hsl(300, 43%, 22%);
+}
+
+.heading-text{
+  color: grey;
+}
+
+
+/* Reviews section */
+
+
+
+
+/* Testimonials section */
+
+
+
+
+/* Footer section */
+
 .attribution {
     font-size: 11px;
     text-align: center;
