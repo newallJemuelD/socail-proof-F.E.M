@@ -1,6 +1,6 @@
 
 body{
-  font-family: "Spartan";
+  font: "Spartan";
   padding: 100px;
 }
 
@@ -18,6 +18,34 @@ body{
 
 /* Reviews section */
 
+.reviews-container{
+  position: relative;
+}
+
+
+.fa-star{
+  color: goldenrod;
+}
+
+
+.custom-card{
+  border-style: hidden;
+  border-radius: 5px;
+  width: 400px;
+  height: 40px;
+  margin: 10px;
+  background-color: hsl(300, 24%, 96%);
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+}
+
+.stars-container{
+  margin: 10px;
+}
+
+.review-text{
+  margin: 10px;
+}
 
 
 
