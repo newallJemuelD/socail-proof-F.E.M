@@ -61,6 +61,13 @@ body{
 }
 
 
+img{
+  border-radius: 50%;
+  height: 50%;
+  /* width: 50%; */
+}
+
+
 
 /* Footer section */
 
