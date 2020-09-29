@@ -51,6 +51,19 @@ body{
 
 /* Testimonials section */
 
+.customer-wrap{
+  display: flex;
+  margin: 10px 0 10px 0;
+}
+
+
+.testimonial-section{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+
 .customer-review-card{
   border-style: hidden;
   border-radius: 5px;
@@ -58,16 +71,36 @@ body{
   margin: 10px;
   padding: 10px;
   color: hsl(300, 24%, 96%);
+  padding: 20px;
 }
 
 
 img{
   border-radius: 50%;
-  height: 50%;
-  /* width: 50%; */
+  height: 45px;
+  width: 45px;
 }
 
+.customer-name{
+  margin: 0;
+  font-weight: bold;
+  font-size: medium;
+}
 
+.customer-status{
+  margin: 0;
+  font-size: medium;
+  color: hsl(333, 80%, 67%);
+}
+
+.customer-image{
+  margin-right: 20px;
+}
+
+.customer-review-text{
+  padding: 10px 0 10px 0;
+  font-size: 14px;
+}
 
 /* Footer section */
 
